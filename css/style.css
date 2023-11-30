@@ -50,6 +50,13 @@ h5 {
  
     color: aliceblue;
 }
+
+form {
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
 .footer {
     background-color: black;
     text-align: center;
