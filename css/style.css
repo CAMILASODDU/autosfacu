@@ -1,0 +1,133 @@
+body {
+    background-image: url(../img/eleprint.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.diego {
+    margin-top: 520px;
+    padding: 10px;
+}
+
+.diego h5 {
+    color:aliceblue;
+}
+
+
+.navegacion a {
+    color: white;
+}
+
+img {
+    width: 100px;
+    border-radius: 30px;
+}
+
+div#navbarNav {
+    justify-content: end;
+}
+
+div#cajas {
+    margin: auto;
+    padding: 50px;
+}
+
+.container {
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    margin: auto;
+    color: aliceblue;
+}
+
+h5 {
+    
+    margin: auto;
+ 
+    color: aliceblue;
+}
+.footer {
+    background-color: black;
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    height: 70px;
+    margin-top: auto;
+    color: aliceblue;
+
+
+}
+
+form#formulario {
+    padding: 40px;
+    width: 50%;
+    margin: auto;
+    margin-left: 0px;
+}
+
+div#padre {
+    display: flex;
+    margin: auto;
+    padding: 10px;
+    margin-top: 70px;
+}
+    .card {
+      width: 200px;
+      height: 200px;
+      padding: 20px;
+    
+      text-align: center;
+      margin: auto;
+      align-items: center;
+     background-color: transparent;
+     color: white;
+    }
+
+    div#box {
+        width: 300px;
+        height: 350px;
+        padding: 0%;
+    }
+
+    div#cajitas {
+        padding: 10px;
+    }
+
+    i {
+       
+        font-size: 50px;
+    }
+
+    h3 {
+        padding: 15px;
+    }
+
+
+div#hijo {
+    padding: 10px;
+    size: 200px;
+    text-align: center;
+}
+
+form#formulario {
+    margin: auto;
+    color: white;
+}
+
+div#carouselExample {
+    padding: 50px;
+}
+
+
+div#quienesSomos {
+    text-align: center;
+    padding: 10px;
+    align-items: center;
+    width: 100%;
+    color: aliceblue;
+}
+
